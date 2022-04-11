@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://github.com/AqFad2811/video/raw/main/buletintv3/buletintv3.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1649666153/ei/CZRTYob_GMi1kwbJ8ZigAw/ip/20.106.96.70/id/t47VnVDEvp4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-a5meknl7.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/4ocVC4uqoU2IzV4HpWskE4KjQk9g/vprv/1/playlist_type/DVR/initcwndbps/20620/mh/oS/mm/44/mn/sn-a5meknl7/ms/lva/mv/m/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1649644109/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgBaDjSqcFTi0cteW_Qldakyc4kvpC-s4ZfBAAjMyAn18CIHgRo4rfH-1eh1aGf3eWYhSmebfQgfQ7hY1DjmI33RTI/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAOOJTZpfQhWodQtnWyOyj0LK3kGYxMArMVeDCx6tAeUvAiEAr5EzzD9SzMmUEqBu2aRNH8gB7uNHSHHW2-DWtHYErvc%3D/playlist/index.m3u8
