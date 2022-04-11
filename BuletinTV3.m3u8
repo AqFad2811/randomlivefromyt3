@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1649714697/ei/qVFUYu2rE4jHigTBraCABw/ip/40.69.162.136/id/6iptnQJVosg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-q4flrnsk.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/4ocVCwxkMUD6R3W2bPtde5urVFIA/vprv/1/playlist_type/DVR/mh/E0/mm/44/mn/sn-q4flrnsk/ms/lva/mv/u/mvi/3/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1649692342/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgQxXndTQumkNZf6JXnpd96fbncT6osz7KuO13N9k0nJgCIQDKrv6IXUhX7Wzc17SCSChwY1tLHSdR8475K-VbQ9cttQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgA6VL4BV9yt6JOx56ctEX5MAXMfgcQ2lNGf_WQq8kYF8CID5wP9H7v0C7o-IeJ1Z_dGbskK1lXD2taIrBzmPn32wA/playlist/index.m3u8
+https://github.com/AqFad2811/video/raw/main/buletintv3/buletintv3.m3u8
